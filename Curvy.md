@@ -61,9 +61,3 @@ print(flag_bytes.decode('ascii'))
 # (Full) Flag
 
 `EPT{n0W_y0u_Kn0w_4_f3w_7h1ng5_4b0UT_el1ipTiC_cUrVes_af137dc886badc}`
-
----
-
-## Takeaway
-
-Three classic ECC attacks back to back – point arithmetic, Pohlig-Hellman on smooth-order curves, and Smart's attack on anomalous curves. Part 2 was the only one that needed a local install due to compute limits on SageMathCell. Good intro challenge if you've never looked at ECC weaknesses before.

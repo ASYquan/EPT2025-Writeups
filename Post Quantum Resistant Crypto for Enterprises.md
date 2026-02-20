@@ -141,7 +141,3 @@ The key is accumulated in reverse as we peel back layers, so it gets flipped at 
 # The flag:
 ```EPT{a42d061e-5798-459e-a1a7-9d04ee236dab}```
 
-
-## Takeaway
-
-The "post-quantum" framing is the joke – the scheme is just stacked ROT + base64, fully reversible with nothing more than a printability filter and a greedy BFS. Having the full encryption code handed to you makes it even more straightforward. Quantum resistance is irrelevant when the classical attack takes seconds.

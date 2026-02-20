@@ -28,8 +28,3 @@ Output:
 EPT{I5_th3_Ch3f_1n_yet?}
 ```
 
----
-
-## Takeaway
-
-Once you spot that 420 is the sum and not just a funny number, it's a matter of finding the right combination and order. The flag asking "Is the chef in yet?" is a nod to CyberChef being the intended tool – which, fair enough, it is.
